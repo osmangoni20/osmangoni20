@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamad Osman Goni</h1>
 <img align="right" alt="coding" width="200" height="200" src="https://media.licdn.com/dms/image/D5603AQGtY3s17r44Lg/profile-displayphoto-shrink_100_100/0/1717738626204?e=1723075200&v=beta&t=jxUwNrWi6Tixr9Va7X1BUt70TTmPu4B7IYrO6vDCkKo">
+<h1 align="center">Hi 👋, I'm Mohamad Osman Goni</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 <br/><br/>
 <!-- ----------------------- social link -------------------------------------- -->
