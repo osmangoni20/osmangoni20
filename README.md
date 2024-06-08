@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamad Osman Goni</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="200" height="200" src="https://media.licdn.com/dms/image/D5603AQGtY3s17r44Lg/profile-displayphoto-shrink_100_100/0/1717738626204?e=1723075200&v=beta&t=jxUwNrWi6Tixr9Va7X1BUt70TTmPu4B7IYrO6vDCkKo">
-- 👨‍💻 Working on [Fation Shoe](https://github.com/osmangoni20/Fation-Shoes-client](https://github.com/osmangoni20/Fation-Shoes-client) **
-- 🌱 Learning **Next Js **
-- 👩‍🎓 Study in **Computer Science & Technology**
+[<img align="right" padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='22px'>](https://github.com/osmangoni0827)  [<img align="right" padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='22px'>](https://www.linkedin.com/in/mohamad-osman-goni-030819190//)  [<img align="right" padding='20px'  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='22px'>](https://www.facebook.com/mohammadosman.goni.505/)  [<img align="right" padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='22px'>](https://twitter.com/Mohamma22609001)  
+- 👨‍💻 Working on [Fation Shoe](https://github.com/osmangoni20/Fation-Shoes-client)
+- 🌱 Learning Next Js 
+- 👩‍🎓 Study in Computer Science & Technology
 
-
-### Connect With: 
-[<img align="left" padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='22px'>](https://github.com/osmangoni0827)  [<img align="left" padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='22px'>](https://www.linkedin.com/in/mohamad-osman-goni-030819190//)  [<img align="left" padding='20px'  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='22px'>](https://www.facebook.com/mohammadosman.goni.505/)  [<img align="left" padding='20px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='22px'>](https://twitter.com/Mohamma22609001)  
 <!-- ----------------------- social link -------------------------------------- -->
 ## 🌐Social Links
 
