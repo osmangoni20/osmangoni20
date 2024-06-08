@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamad Osman Goni</h1>
 <img align="right" alt="coding" width="200" height="200" src="https://media.licdn.com/dms/image/D5603AQGtY3s17r44Lg/profile-displayphoto-shrink_100_100/0/1717738626204?e=1723075200&v=beta&t=jxUwNrWi6Tixr9Va7X1BUt70TTmPu4B7IYrO6vDCkKo">
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<br/>
+<br/><br/>
 <!-- ----------------------- social link -------------------------------------- -->
-### 🌐Social Links
-
 <p align="center">
 <a href="https://www.linkedin.com/in/osman84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihanbjashim" height="30" width="40" /></a>
 <a href="https://twitter.com/osmangoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmangoni" height="30" width="40" /></a>
