@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamad Osman Goni</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">A passionate Marn-stack Developer from Bangladesh</h3>
 
 
 ### Marn-stack Developer
@@ -13,7 +13,6 @@
 Hello!! I am Mohamad Osman Goni. I am a Marn-Stack Developer with expertise in HTML5, CSS3, JavaScript, TypeScript, React.js, Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. Eager to contribute my skills in turning ideas into dynamic web solutions. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.
 
 - 🔭  I’m currently working on Web Developer 
-- 🌱  I’m currently learning Web Programming 
 - 👯  I’m looking to collaborate on with other developer 
 * 🌍  I'm based in Chitagong, Bangladesh
 * 🖥️  See my portfolio at [https://osmanportfolio.onrender.com/](https://osmanportfolio.onrender.com/)
