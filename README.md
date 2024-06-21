@@ -1,9 +1,9 @@
 
-![I am GitHub Readme Generator's creator](https://github.com/the-nazzmul/the-nazzmul/blob/main/Nazmul%20Hussain2.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/osmangoni20/the-nazzmul/blob/main/Nazmul%20Hussain2.jpg)
 
 
 
-# Nazmul Hussain
+# Mohamad Osman Goni
 
 
 ### Full-stack Developer
@@ -32,8 +32,8 @@ Hello!! I am Mohamad Osman Goni. I am a Marn-Stack Developer with expertise in H
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/the-nazzmul"><img src="https://github-readme-stats.vercel.app/api?username=the-nazzmul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="the-nazzmul's GitHub stats" /></a>
+<a href="https://github.com/osmangoni20"><img src="https://github-readme-stats.vercel.app/api?username=the-nazzmul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="the-nazzmul's GitHub stats" /></a>
 
-<a href="http://www.github.com/the-nazzmul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=the-nazzmul&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/osmangoni20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=the-nazzmul&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/the-nazzmul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-nazzmul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/osmangoni20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-nazzmul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
