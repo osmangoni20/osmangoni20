@@ -42,7 +42,7 @@ Hello!! I am Mohamad Osman Goni. I am a Marn-Stack Developer with expertise in H
  </p>
 
 # 📊Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmangoni20&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmangoni20&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=osmangoni20&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osmangoni20&theme=dark&hide_border=false)
