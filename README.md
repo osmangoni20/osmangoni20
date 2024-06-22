@@ -41,7 +41,7 @@ Hello!! I am Mohamad Osman Goni. I am a Marn-Stack Developer with expertise in H
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557686707986) 
  </p>
 
-# 📊Stats:
+### Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmangoni20&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=osmangoni20&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 <br/>
